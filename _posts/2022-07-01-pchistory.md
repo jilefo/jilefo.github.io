@@ -71,7 +71,7 @@ mermaid: true#
 
 英国工程师弗莱明（John Ambrose Fleming）利用爱迪生效应发明了人电子管。从此，人类进入了微电子时代。1912年，美国发明家德·福雷斯特（Lee de Forest）在加州的帕洛·阿托(Palo Alto)市发现了电子管的放大作用，为电子工业奠定了基础。1913年，麻省理工的教授万尼伐尔·布什（Vannevar Bush）制造出了第一台模拟式计算机微分分析仪。该计算机靠电机驱动，并利用齿轮转动的角度来进行模拟计算。
 
-
+![image-20220701164614713](/C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20220701164614713.png)
 
 
 
